@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @interlude66
+- 👀 I’m interested in cheats
+- 🌱 I’m currently learning Lua
+- 📫 How to reach me discord: DeaDCoaT#9924
